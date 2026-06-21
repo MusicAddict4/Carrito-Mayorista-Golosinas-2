@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nombre": "Caja de alfajores guaymallén x15u",
+        "precio": 10000,
+        "categoria": "alfajores"
+    },
+    {
+        "id": 2,
+        "nombre": "Caja de chocolates block x10u",
+        "precio": 15000,
+        "categoria": "chocolates"
+    },
+    {
+        "id": 3,
+        "nombre": "Caja de turrones misky x20u",
+        "precio": 7500,
+        "categoria": "turron"
+    },
+    {
+        "id": 4,
+        "nombre": "Paquete de gomitas x1kg",
+        "precio": 8500,
+        "categoria": "gomitas"
+    },
+    {
+        "id": 5,
+        "nombre": "Paquete de chupetines x24u",
+        "precio": 9400,
+        "categoria": "chupetin"
+    }
+]

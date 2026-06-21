@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Golosinas Mayorista - Simulador de Compra</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Distribuidora de Golosinas - Panel Mayorista</h1>
+    </header>
+
+    <div class="contenedor-principal">
+        
+        <main id="contenedor-productos">
+        </main>
+
+        <aside id="seccion-carrito">
+            <h2>Tu Pedido</h2>
+            <div id="lista-carrito">
+                <p>El carrito está vacío.</p>
+            </div>
+            <p><strong>Total: $ <span id="total-precio">0</span></strong></p>
+            <button id="boton-vaciar">Vaciar Carrito</button>
+            <button id="boton-comprar" style="background-color: #007bff;">Finalizar Compra</button>
+        </aside>
+
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+    <script src="/main.js"></script>
+</body>
+</html>
